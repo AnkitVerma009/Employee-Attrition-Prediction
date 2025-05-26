@@ -1,10 +1,6 @@
 # Employee-Attrition-Prediction
 This project predicts employee attrition using a limited number of expert-provided labels. It simulates a real-world scenario where labeling is expensive and restricted. A Subject Matter Expert (SME) provides only 500 labels, and the resulting labeled dataset is used to train a machine learning model to predict which employees are likely to leave.
 
-# Employee Attrition Prediction
-
-This project focuses on predicting whether employees will leave a company, using machine learning with limited labeled data. The main challenge is that labels are not provided directly — instead, we simulate consulting a Subject Matter Expert (SME) who is allowed to give only 500 labels. This mirrors a real-world situation where obtaining labeled data is expensive or time-constrained.
-
 ## Objective
 
 To build a machine learning model that can predict employee attrition based on historical HR data, using only a limited number of labels provided by an SME system.
